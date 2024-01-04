@@ -19,7 +19,6 @@ git clone https://github.com/your-username/react-redux-task-manager.git
 2. Install dependencies:
 
 ```bash
-cd react-redux-task-manager
 npm install
 ```
 
