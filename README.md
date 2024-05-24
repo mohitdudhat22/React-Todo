@@ -13,7 +13,7 @@ A simple task management application built with React and Redux.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-redux-task-manager.git
+git clone https://github.com/mohitdudhat22/React-Todo.git
 ```
 
 2. Install dependencies:
